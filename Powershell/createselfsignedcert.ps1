@@ -1,0 +1,1 @@
+﻿New-SelfSignedCertificate –DnsName #replace with dns name# -CertStoreLocation “cert:\LocalMachine\My” -NotAfter 21/09/2020 -FriendlyName Friendly
